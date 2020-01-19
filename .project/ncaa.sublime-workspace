@@ -1,0 +1,215 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"yea",
+				"years"
+			],
+			[
+				"fa",
+				"fail_files"
+			],
+			[
+				"cu",
+				"current_season"
+			],
+			[
+				"Fin",
+				"Find_Data"
+			],
+			[
+				"html",
+				"html_doc"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/human/NCAA"
+	],
+	"file_history":
+	[
+		"/home/human/NCAA/README.md",
+		"/home/human/NCAA/NCAA/README.md",
+		"/home/human/Machine-Learning/Base/train.py",
+		"/home/human/Machine-Learning/Base/Environment/environment.py",
+		"/home/human/Machine-Learning/Exp/DQN-Navigation/navigation.py",
+		"/home/human/Machine-Learning/Base/test.py",
+		"/home/human/Machine-Learning/NCAA/Data/data_bot.py",
+		"/home/human/Machine-Learning/Tools/WebScraper.py",
+		"/home/human/Machine-Learning/.gitignore",
+		"/home/human/Machine-Learning/Projects/NCAA/Environment/environment.py",
+		"/home/human/Machine-Learning/Projects/NCAA/README.md",
+		"/home/human/Machine-Learning/Projects/NCAA/Brain/brain.py",
+		"/home/human/Machine-Learning/Projects/NCAA/Brain/dqn.py",
+		"/home/human/Machine-Learning/Projects/README.md",
+		"/home/human/Machine-Learning/Base/RL/test.py",
+		"/home/human/Machine-Learning/Base/RL/train.py",
+		"/home/human/Machine-Learning/Base/RL/Environment/__init__.py",
+		"/home/human/Machine-Learning/Base/RL/Brain/__init__.py",
+		"/home/human/Machine-Learning/README.md",
+		"/home/human/Machine-Learning/BASE/README.md",
+		"/home/human/Machine-Learning/TESTS/environment.py",
+		"/home/human/Machine-Learning/TESTS/train.py",
+		"/home/human/Machine-Learning/TESTS/test.py",
+		"/home/human/Simulator/environment.yml",
+		"/home/human/Simulator/SIMULATOR/Car/Controls/car_control.py",
+		"/home/human/Machine-Learning/RL/test.py",
+		"/home/human/Machine-Learning/NCAA/README.md"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ncaa.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
